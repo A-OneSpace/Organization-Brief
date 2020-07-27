@@ -1,2 +1,4 @@
-# Organization-Brief
-A-OneSpace Organization Development Roadmap                             <img src = "https://github.com/A-OneSpace/Organization-Brief/blob/master/About/Assets/A-OneSpace%20Logo.png" width = "195" height = "195"/>
+# Organization-Brief               
+
+                                    <img src = "https://github.com/A-OneSpace/Organization-Brief/blob/master/About/Assets/A-OneSpace%20Logo.png" width = "195" height = "195"/>
+
